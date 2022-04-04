@@ -1,0 +1,14 @@
+.sign-up{
+    display:flex;
+    justify-content: flex-end;
+    color: rgb(224, 224, 231);
+    padding: 0px 8px;
+}
+.login-error{
+    color: red;
+    margin: 0px 0px;
+}
+.login-main-div{
+    background: url('../../Assets/Login-bg.jpg');
+    height: 100vh;
+}

@@ -1,0 +1,30 @@
+  
+ .container{
+    display:flex;
+      align-items:center;
+      justify-content:center;
+      height:100vh;
+      width:100%;
+      /* background:linear-gradient(to left, rgb(61, 230, 61), white); */
+  }
+    .form-box{
+        width:25%;
+        background-color:rgba(89, 32, 149, 0.732);
+        padding:20px;
+        display:flex;
+        flex-direction:column;
+        justify-content:flex-start;
+        border-radius:2%;
+    }
+    .form-button-section{
+      display: flex;
+      justify-content: center;
+    }
+  
+  
+ 
+  
+  
+  
+  
+  

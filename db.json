@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "email": "user@email.com",
+      "password": "$2a$10$nB4wTyUtPzFTKnoHXgGFa.OlYxwwhyXqmeM9tl5yjjzv9cutsInzS",
+      "username": "myusername",
+      "id": 1
+    },
+    {
+      "email": "user1@email.com",
+      "password": "$2a$10$yBQzsyAdRlvuF3EEjC7Hie83YbZubfY/lGmKdO12RQsMC4GqDJIoO",
+      "username": "myusername -1",
+      "id": 2
+    },
+    {
+      "email": "mishra.shivam@gmail.com",
+      "password": "$2a$10$/m5tEEevunfXLQcTyoTGv.H5D9z/nKkONFBwzOF.l5Nz8dBkfq2ve",
+      "name": "kjk",
+      "userName": "iu",
+      "number": "jh",
+      "profileImage": null,
+      "showPassword": true,
+      "id": 3
+    }
+  ]
+}
